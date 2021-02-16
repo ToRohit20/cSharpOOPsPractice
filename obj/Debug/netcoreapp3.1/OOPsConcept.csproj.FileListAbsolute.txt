@@ -1,0 +1,13 @@
+D:\Rohit\Github\OOPsConcept\bin\Debug\netcoreapp3.1\OOPsConcept.exe
+D:\Rohit\Github\OOPsConcept\bin\Debug\netcoreapp3.1\OOPsConcept.deps.json
+D:\Rohit\Github\OOPsConcept\bin\Debug\netcoreapp3.1\OOPsConcept.runtimeconfig.json
+D:\Rohit\Github\OOPsConcept\bin\Debug\netcoreapp3.1\OOPsConcept.runtimeconfig.dev.json
+D:\Rohit\Github\OOPsConcept\bin\Debug\netcoreapp3.1\OOPsConcept.dll
+D:\Rohit\Github\OOPsConcept\bin\Debug\netcoreapp3.1\OOPsConcept.pdb
+D:\Rohit\Github\OOPsConcept\obj\Debug\netcoreapp3.1\OOPsConcept.csprojAssemblyReference.cache
+D:\Rohit\Github\OOPsConcept\obj\Debug\netcoreapp3.1\OOPsConcept.AssemblyInfoInputs.cache
+D:\Rohit\Github\OOPsConcept\obj\Debug\netcoreapp3.1\OOPsConcept.AssemblyInfo.cs
+D:\Rohit\Github\OOPsConcept\obj\Debug\netcoreapp3.1\OOPsConcept.csproj.CoreCompileInputs.cache
+D:\Rohit\Github\OOPsConcept\obj\Debug\netcoreapp3.1\OOPsConcept.dll
+D:\Rohit\Github\OOPsConcept\obj\Debug\netcoreapp3.1\OOPsConcept.pdb
+D:\Rohit\Github\OOPsConcept\obj\Debug\netcoreapp3.1\OOPsConcept.genruntimeconfig.cache
